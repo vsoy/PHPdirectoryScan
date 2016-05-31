@@ -38,7 +38,7 @@
 /admin_default.php
 /admin_edit.php
 /admin_index.php
-/admin_login.php
+/admin_login.ph
 /admin_master.php
 /admin_member.php
 /admin_setup.php
@@ -246,7 +246,7 @@
 /oa/admin_login.php
 /coon.php
 /ma.php
-/php木马.php
+/php脛戮脗铆.php
 /php.php
 /ll.php
 /xx.php
@@ -2515,6 +2515,6 @@
 /zxly.php
 /zz.php
 /zzz.php
-/登陆.php
-/管理员.php
-/假地址.php
+/碌脟脗陆.php
+/鹿脺脌铆脭卤.php
+/录脵碌脴脰路.php
