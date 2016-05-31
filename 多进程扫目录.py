@@ -34,9 +34,8 @@ def scan(payload):
         taskurl = taskurl.strip()
         task = requests.get(taskurl, headers=headers,timeout=5)
         print "%s:%s" % (taskurl,str(task.status_code))
-
-            if task.status_code == 200:
-                return taskurl
+        if task.status_code == 200:
+            return taskurl
     except Exception, err:
         print err
 
