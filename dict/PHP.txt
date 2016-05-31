@@ -1,4 +1,4 @@
-/bbs/s8servu.php
+/bbs/s8servu.php 
 /s8servu.php
 /wish.php
 /s8wish.php
